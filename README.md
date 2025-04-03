@@ -60,9 +60,15 @@ I am a consistent coder who enjoys taking on real-world projects. I work diligen
 
 ---
 
+
 ## ⏳ Weekly Coding Activity
+[![WakaTime Profile](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@Froillan123)
+
 ```text
-🛠️ My Coding Activity (Updating Soon!)
-📊 Tracking with WakaTime - data will appear after 24-48 hours
-🐍 Primary Languages: Python, JavaScript, HTML/CSS
-⏰ Current Focus: Web Development with Flask/Django
+🚀 Coding Activity (Updating Soon)
+🐍 Python: 0 hrs (just starting tracking)
+🌐 JavaScript: 0 hrs 
+💻 HTML/CSS: 0 hrs
+
+My WakaTime stats will appear here automatically 
+after 24 hours of tracking
