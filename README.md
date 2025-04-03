@@ -61,6 +61,8 @@ I am a consistent coder who enjoys taking on real-world projects. I work diligen
 ---
 
 ## ⏳ Weekly Coding Activity
-<!--START_SECTION:waka-->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Froillan123&layout=compact&theme=radical&hide_border=true&langs_count=6)
-<!--END_SECTION:waka-->
+```text
+🛠️ My Coding Activity (Updating Soon!)
+📊 Tracking with WakaTime - data will appear after 24-48 hours
+🐍 Primary Languages: Python, JavaScript, HTML/CSS
+⏰ Current Focus: Web Development with Flask/Django
