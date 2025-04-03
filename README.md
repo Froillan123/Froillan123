@@ -60,24 +60,9 @@ I am a consistent coder who enjoys taking on real-world projects. I work diligen
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Python patterns
-- Web performance optimization
-- Clean code principles
-
-## 💼 Recent Projects
-1. [Project Name](https://github.com/Froillan123/repo) - Short description
-2. [Another Project](https://github.com/Froillan123/repo) - Short description
-
-## ⚡ Fun Fact
-I can solve a Rubik's cube while writing Python scripts! (Well... almost)
-
-📫 **How to reach me:** 
-[![Email](https://img.shields.io/badge/Email-froillan.edem@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:froillan.edem@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Froillan_Kim-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/froillan-kim-b-edem-5b591b252/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Froillan123&label=Profile%20Views&color=8E2DE2&style=flat" alt="Froillan123" />
-</p>
+## ⏳ Weekly Coding Activity
+<!--START_SECTION:waka-->
+```text
+Python       █████████████████████████ 87.5% 
+JavaScript   ███████████▌            42.3%
+HTML/CSS     ███████▋               31.2%
