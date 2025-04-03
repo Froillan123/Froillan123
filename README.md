@@ -62,7 +62,5 @@ I am a consistent coder who enjoys taking on real-world projects. I work diligen
 
 ## ⏳ Weekly Coding Activity
 <!--START_SECTION:waka-->
-```text
-Python       █████████████████████████ 87.5% 
-JavaScript   ███████████▌            42.3%
-HTML/CSS     ███████▋               31.2%
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Froillan123&layout=compact&theme=radical&hide_border=true&langs_count=6)
+<!--END_SECTION:waka-->
