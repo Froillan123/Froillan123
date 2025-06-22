@@ -1,74 +1,47 @@
-<!-- Elegant Header with Dark Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d42,100:4a4e69&height=300&section=header&text=Hi%20there!%20👋&desc=I'm%20Froillan%20Kim%20B.%20Edem%20-%20Python%20Dev%20%7C%20Web%20Builder&fontAlignY=40&fontSize=50&descSize=20&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d42,100:4a4e69&height=250&section=header&text=Froillan%20Kim%20B.%20Edem&fontAlignY=40&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <div align="center">
   
-🐍 Python Developer | 🌐 Web Enthusiast | 🚀 Building cool stuff with code
+Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/froillan-kim-b-edem-5b591b252/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086376409925)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:froillan.edem@gmail.com)
 
 </div>
 
 ---
 
-## 🔧 My Tech Stack
+## Technical Skills
 
-### 🐍 Primary Language
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### 🛠️ Tools & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
-## 🙋‍♂️ About Me
-I am a consistent coder who enjoys taking on real-world projects. I work diligently and always give my best when assigned a task.
-
----
-
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Froillan123&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=dark&hide_border=true)
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Froillan123&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)
-
-</div>
-
----
-
-
-## ⏳ Weekly Coding Activity
-[![WakaTime Profile](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@Froillan123)
-
-```text
-🚀 Coding Activity (Updating Soon)
-🐍 Python: 0 hrs (just starting tracking)
-🌐 JavaScript: 0 hrs 
-💻 HTML/CSS: 0 hrs
-
-My WakaTime stats will appear here automatically 
-after 24 hours of tracking
