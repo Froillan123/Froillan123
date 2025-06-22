@@ -4,10 +4,13 @@
 
 <div align="center">
   
-Web Developer
+Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/froillan-kim-b-edem-5b591b252/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:froillan.edem@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Froillan123&color=blue&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Froillan123?style=social)
 
 </div>
 
@@ -26,7 +29,6 @@ Web Developer
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Backend
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
