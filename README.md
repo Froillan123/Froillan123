@@ -4,7 +4,7 @@
 
 <div align="center">
   
-Software Engineer
+Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/froillan-kim-b-edem-5b591b252/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:froillan.edem@gmail.com)
@@ -13,6 +13,12 @@ Software Engineer
 ![GitHub Followers](https://img.shields.io/github/followers/Froillan123?style=social)
 
 </div>
+
+---
+
+## About Me
+
+Final year BSIT student at University of Cebu - Main with comprehensive expertise in full-stack development. Specializing in Django backend solutions while proficient in frontend technologies, system architecture, and database management. Experienced in leading projects from conception to deployment with strong skills in UI/UX design and network infrastructure.
 
 ---
 
@@ -29,12 +35,19 @@ Software Engineer
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Backend
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
-### Tools
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 
 ---
 
@@ -47,3 +60,7 @@ Software Engineer
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=dark&hide_border=true)
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d42,100:4a4e69&height=80&section=footer&animation=fadeIn" />
+</p>
