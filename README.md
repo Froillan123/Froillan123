@@ -32,6 +32,7 @@ A final-year BSIT student at the University of Cebu - Main with extensive hands-
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
 ### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
