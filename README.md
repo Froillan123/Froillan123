@@ -48,8 +48,9 @@ A final-year BSIT student at the University of Cebu - Main with extensive hands-
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![SQLite](https://img.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
