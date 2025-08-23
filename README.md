@@ -18,7 +18,7 @@ Software Engineer | Flutter Android Developer | Cloud & DevOps Enthusiast
 
 ## About Me
 
-A final-year BSIT student at the University of Cebu - Main with extensive hands-on experience in **full-stack development** and **cloud infrastructure**. I specialize in creating robust backend solutions with **Django** and **FastAPI** while maintaining a strong command of front-end technologies, system architecture, and database management. I have a proven track record of leading projects from initial concept to full deployment, with a focus on intuitive **UI/UX design** and scalable mobile development using **Flutter**. My expertise also extends to network infrastructure and container orchestration with **Kubernetes**. My proficiency in **serverless architectures** and **NoSQL databases** like Firebase's Firestore allows me to build real-time, highly scalable applications.
+A final-year BSIT student at the University of Cebu - Main with extensive hands-on experience in **full-stack development** and **cloud infrastructure**. I specialize in creating robust backend solutions with **Django** and **FastAPI**, while maintaining a strong command of front-end technologies, system architecture, and database management. With hands-on experience in leading projects from initial concept to full deployment, my focus is on intuitive **UI/UX design** and scalable mobile development using **Flutter**. I also have hands-on experience in network infrastructure and container orchestration with **Kubernetes**, and my proficiency in **serverless architectures** and **NoSQL databases** like Firebase's Firestore allows me to build real-time, highly scalable applications.
 
 ---
 
