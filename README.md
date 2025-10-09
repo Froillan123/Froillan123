@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5CD581&height=300&section=header&text=Froillan%20Kim%20B.%20Edem&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20Cloud%20Architect&descAlignY=60&descAlign=center&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d42,100:4a4e69&height=300&section=header&text=Froillan%20Kim%20B.%20Edem&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20Cloud%20Architect&descAlignY=60&descAlign=center&descSize=20" />
 
 # 👋 **Hello, I'm Froillan Kim B. Edem**
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-5CD581?style=for-the-badge&logo=globe&logoColor=white)](https://www.froillan-edem-services.online/)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge&logo=globe&logoColor=white)](https://www.froillan-edem-services.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/froillan-kim-b-edem-5b591b252/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:froillan.edem@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Froillan123)
@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Froillan123&color=5CD581&style=for-the-badge&label=Profile%20Views)
-![GitHub Followers](https://img.shields.io/github/followers/Froillan123?style=for-the-badge&label=Followers&color=5CD581)
-![GitHub Stars](https://img.shields.io/github/stars/Froillan123?style=for-the-badge&label=Stars&color=5CD581)
+![Profile Views](https://komarev.com/ghpvc/?username=Froillan123&color=blue&style=for-the-badge&label=Profile%20Views)
+![GitHub Followers](https://img.shields.io/github/followers/Froillan123?style=for-the-badge&label=Followers&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Froillan123?style=for-the-badge&label=Stars&color=blue)
 
 </div>
 
@@ -59,7 +59,7 @@ I'm a **passionate software engineer** 🚀 specializing in **full-stack develop
 
 ### 🎯 **Current Focus:**
 
-<img src="https://img.shields.io/badge/FaceofMind-AI%20Powered%20Mental%20Health-5CD581?style=for-the-badge&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/FaceofMind-AI%20Powered%20Mental%20Health-blue?style=for-the-badge&logo=brain&logoColor=white" />
 
 </div>
 
@@ -73,13 +73,13 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 ### 💡 **FaceofMind - AI-Powered Mental Health Companion**
 
-<img src="https://img.shields.io/badge/FaceofMind-AI%20Powered%20Mental%20Health-5CD581?style=for-the-badge&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/FaceofMind-AI%20Powered%20Mental%20Health-blue?style=for-the-badge&logo=brain&logoColor=white" />
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🎬-Live_Demo-5CD581?style=for-the-badge&logo=play&logoColor=white)](https://www.faceofmind.it.com/)
+[![Live Demo](https://img.shields.io/badge/🎬-Live_Demo-blue?style=for-the-badge&logo=play&logoColor=white)](https://www.faceofmind.it.com/)
 [![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Froillan123/Faceofmind)
-[![Portfolio](https://img.shields.io/badge/👨‍💻-Portfolio-5CD581?style=for-the-badge&logo=user&logoColor=white)](https://www.froillan-edem-services.online/)
+[![Portfolio](https://img.shields.io/badge/👨‍💻-Portfolio-blue?style=for-the-badge&logo=user&logoColor=white)](https://www.froillan-edem-services.online/)
 
 </div>
 
@@ -130,10 +130,10 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 ### 📈 **Impact:**
 
-<img src="https://img.shields.io/badge/Real--time%20Emotion%20Tracking-✅%20Better%20Mental%20Health%20Awareness-5CD581?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gamified%20Approach-✅%20Encourages%20Consistent%20Wellness-5CD581?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Professional%20Integration-✅%20Connects%20Users%20with%20Psychologists-5CD581?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scalable%20Monitoring-✅%20System%20Reliability%20%26%20Performance-5CD581?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Real--time%20Emotion%20Tracking-✅%20Better%20Mental%20Health%20Awareness-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gamified%20Approach-✅%20Encourages%20Consistent%20Wellness-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Professional%20Integration-✅%20Connects%20Users%20with%20Psychologists-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scalable%20Monitoring-✅%20System%20Reliability%20%26%20Performance-blue?style=for-the-badge" />
 
 </div>
 
@@ -245,11 +245,9 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 ### 🎯 **My Coding Journey**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Statistics)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Statistics)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=💻%20Most%20Used%20Languages)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Froillan123&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=💻%20Most%20Used%20Languages)
 
 </div>
 
@@ -270,7 +268,7 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐-Visit_My_Portfolio-5CD581?style=for-the-badge&logo=globe&logoColor=white)](https://www.froillan-edem-services.online/)
+[![Portfolio](https://img.shields.io/badge/🌐-Visit_My_Portfolio-blue?style=for-the-badge&logo=globe&logoColor=white)](https://www.froillan-edem-services.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/froillan-kim-b-edem-5b591b252/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:froillan.edem@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Froillan123)
@@ -289,7 +287,7 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5CD581&height=150&section=footer&fontColor=ffffff&fontSize=20&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d42,100:4a4e69&height=150&section=footer&fontColor=ffffff&fontSize=20&fontAlignY=70" />
 
 ### 💝 **Thanks for visiting! Let's build something incredible together!** 🚀
 
