@@ -67,78 +67,6 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 ---
 
-## 🌟 **Featured Project**
-
-<div align="center">
-
-### 💡 **FaceofMind - AI-Powered Mental Health Companion**
-
-<img src="https://img.shields.io/badge/FaceofMind-AI%20Powered%20Mental%20Health-blue?style=for-the-badge&logo=brain&logoColor=white" />
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🎬-Live_Demo-blue?style=for-the-badge&logo=play&logoColor=white)](https://www.faceofmind.it.com/)
-[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Froillan123/Faceofmind)
-[![Portfolio](https://img.shields.io/badge/👨‍💻-Portfolio-blue?style=for-the-badge&logo=user&logoColor=white)](https://www.froillan-edem-services.online/)
-
-</div>
-
-</div>
-
-<div align="center">
-
-**FaceofMind** is a comprehensive **AI-powered mental health platform** that combines cutting-edge technology with user-friendly design to help people track and improve their emotional wellbeing.
-
-</div>
-
-<div align="center">
-
-### 🚀 **Key Features:**
-
-</div>
-
-<div align="center">
-
-| **Feature** | **Description** | **Technology** |
-|-------------|-----------------|----------------|
-| **🎭 Real-Time Emotion Detection** | 7 core emotions using facial & voice analysis | AWS Emotion Recognition |
-| **🎮 Gamified Wellness** | Interactive games (Quiz, Virtual Pet, Garden) with reward points | Flutter + Redis |
-| **🗺️ Psychologist Integration** | QR code access and Google Maps integration | Google Maps API |
-| **📊 Real-Time Monitoring** | RPM/RPD tracking with Discord webhook alerts | Redis + Discord |
-| **☁️ Scalable Architecture** | Microservices with Python, C# .NET, and Flutter | Multi-language |
-
-</div>
-
-<div align="center">
-
-### 🛠️ **Tech Stack:**
-
-</div>
-
-<div align="center">
-  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### 📈 **Impact:**
-
-<img src="https://img.shields.io/badge/Real--time%20Emotion%20Tracking-✅%20Better%20Mental%20Health%20Awareness-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gamified%20Approach-✅%20Encourages%20Consistent%20Wellness-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Professional%20Integration-✅%20Connects%20Users%20with%20Psychologists-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scalable%20Monitoring-✅%20System%20Reliability%20%26%20Performance-blue?style=for-the-badge" />
-
-</div>
-
----
-
 ## 🛠️ **Technical Skills**
 
 <div align="center">
@@ -234,6 +162,116 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-F57C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![FCM](https://img.shields.io/badge/FCM-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 **My Coding Journey**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Statistics)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=💻%20Most%20Used%20Languages)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Froillan123&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC)
+
+</div>
+
+### 🏆 **Achievements & Stats:**
+- **📈 Active Contributor** - Consistent commits across multiple projects
+- **🔧 Full-Stack Expertise** - Proficient in both frontend and backend technologies
+- **☁️ Cloud Native** - Extensive experience with Google Cloud Platform and Firebase
+- **🤖 AI/ML Focus** - Specializing in emotion detection and intelligent applications
+- **📱 Mobile Development** - Flutter expert with cross-platform expertise
+
+### 💻 **Skill Proficiency Levels**
+
+<div align="center">
+
+| **Technology** | **Proficiency** | **Focus Area** | **Projects** |
+|----------------|-----------------|-----------------|--------------|
+| **Python** | ████████████ 95% | Backend Development | FaceofMind Backend, AI/ML |
+| **Flutter/Dart** | ████████████ 95% | Mobile Development | FaceofMind Mobile App |
+| **C# .NET** | ██████████ 85% | Enterprise Services | Psychologist & Payment Services |
+| **React/TypeScript** | ██████████ 85% | Web Development | Admin Dashboard, Web Apps |
+| **FastAPI** | ████████████ 90% | API Development | Microservices Architecture |
+| **Google Cloud** | ██████████ 85% | Cloud Infrastructure | Production Deployment |
+| **Firebase** | ████████████ 90% | Real-time Database | Authentication, Firestore |
+| **Redis** | ██████████ 80% | Caching & Performance | Real-time Features |
+
+</div>
+
+---
+
+## 🌟 **Featured Project**
+
+<div align="center">
+
+### 💡 **FaceofMind - AI-Powered Mental Health Companion**
+
+<img src="https://img.shields.io/badge/FaceofMind-AI%20Powered%20Mental%20Health-blue?style=for-the-badge&logo=brain&logoColor=white" />
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🎬-Live_Demo-blue?style=for-the-badge&logo=play&logoColor=white)](https://www.faceofmind.it.com/)
+[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Froillan123/Faceofmind)
+[![Portfolio](https://img.shields.io/badge/👨‍💻-Portfolio-blue?style=for-the-badge&logo=user&logoColor=white)](https://www.froillan-edem-services.online/)
+
+</div>
+
+</div>
+
+<div align="center">
+
+**FaceofMind** is a comprehensive **AI-powered mental health platform** that combines cutting-edge technology with user-friendly design to help people track and improve their emotional wellbeing.
+
+</div>
+
+<div align="center">
+
+### 🚀 **Key Features:**
+
+</div>
+
+<div align="center">
+
+| **Feature** | **Description** | **Technology** |
+|-------------|-----------------|----------------|
+| **🎭 Real-Time Emotion Detection** | 7 core emotions using facial & voice analysis | AWS Emotion Recognition |
+| **🎮 Gamified Wellness** | Interactive games (Quiz, Virtual Pet, Garden) with reward points | Flutter + Redis |
+| **🗺️ Psychologist Integration** | QR code access and Google Maps integration | Google Maps API |
+| **📊 Real-Time Monitoring** | RPM/RPD tracking with Discord webhook alerts | Redis + Discord |
+| **☁️ Scalable Architecture** | Microservices with Python, C# .NET, and Flutter | Multi-language |
+
+</div>
+
+<div align="center">
+
+### 🛠️ **Tech Stack:**
+
+</div>
+
+<div align="center">
+  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 📈 **Impact:**
+
+<img src="https://img.shields.io/badge/Real--time%20Emotion%20Tracking-✅%20Better%20Mental%20Health%20Awareness-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gamified%20Approach-✅%20Encourages%20Consistent%20Wellness-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Professional%20Integration-✅%20Connects%20Users%20with%20Psychologists-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scalable%20Monitoring-✅%20System%20Reliability%20%26%20Performance-blue?style=for-the-badge" />
 
 </div>
 
@@ -452,41 +490,6 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 </div>
 
-<div align="center">
-
-### 🎯 **My Coding Journey**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Statistics)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=💻%20Most%20Used%20Languages)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Froillan123&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC)
-
-</div>
-
-### 🏆 **Achievements & Stats:**
-- **📈 Active Contributor** - Consistent commits across multiple projects
-- **🔧 Full-Stack Expertise** - Proficient in both frontend and backend technologies
-- **☁️ Cloud Native** - Extensive experience with Google Cloud Platform and Firebase
-- **🤖 AI/ML Focus** - Specializing in emotion detection and intelligent applications
-- **📱 Mobile Development** - Flutter expert with cross-platform expertise
-
-### 💻 **Skill Proficiency Levels**
-
-<div align="center">
-
-| **Technology** | **Proficiency** | **Focus Area** | **Projects** |
-|----------------|-----------------|-----------------|--------------|
-| **Python** | ████████████ 95% | Backend Development | FaceofMind Backend, AI/ML |
-| **Flutter/Dart** | ████████████ 95% | Mobile Development | FaceofMind Mobile App |
-| **C# .NET** | ██████████ 85% | Enterprise Services | Psychologist & Payment Services |
-| **React/TypeScript** | ██████████ 85% | Web Development | Admin Dashboard, Web Apps |
-| **FastAPI** | ████████████ 90% | API Development | Microservices Architecture |
-| **Google Cloud** | ██████████ 85% | Cloud Infrastructure | Production Deployment |
-| **Firebase** | ████████████ 90% | Real-time Database | Authentication, Firestore |
-| **Redis** | ██████████ 80% | Caching & Performance | Real-time Features |
-
-</div>
 
 ---
 
