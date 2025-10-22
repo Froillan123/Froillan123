@@ -4,7 +4,7 @@
 
 # 👋 **Hello, I'm Froillan Kim B. Edem**
 
-### 🚀 **Full-Stack Developer | AI/ML Enthusiast | Cloud Architect**
+### 🚀 **Software Engineer | AI/ML Enthusias | Cloud Architect**
 
 <div align="center">
 
