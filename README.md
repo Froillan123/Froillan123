@@ -4,7 +4,7 @@
 
 # 👋 **Hello, I'm Froillan Kim B. Edem**
 
-### 🚀 **Software Engineer | AI/ML Enthusias | Cloud Architect**
+### 🚀 **Full-Stack Developer | AI/ML Enthusiast | Cloud Architect**
 
 <div align="center">
 
@@ -516,11 +516,13 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **📊 ML Pipeline** | Python + TensorFlow | Real-time processing | Personalized insights |
 | **☁️ Cloud Processing** | AWS Lambda + API Gateway | Scalable architecture | Auto-scaling |
 
-**🔧 Technical Implementation:**
-- **Real-time emotion classification** using AWS Rekognition
-- **Multi-modal analysis** combining facial and voice data
-- **Custom ML models** trained on emotion datasets
-- **RESTful API** for seamless integration
+| **Implementation** | **Technology** | **Details** |
+|-------------------|----------------|-------------|
+| **Emotion Classification** | AWS Rekognition API | 7 core emotions with 95% accuracy |
+| **Multi-modal Analysis** | Python + OpenCV | Combines facial and voice data processing |
+| **Image Processing** | Base64 encoding | Camera feed to AWS via REST API |
+| **Real-time Response** | Flask + Redis Cache | <200ms processing latency |
+| **Error Handling** | Discord Webhooks | Instant alerts for API failures |
 
 </div>
 
@@ -535,13 +537,15 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **⚡ WebSocket** | Python FastAPI + WebSocket | <100ms latency | Instant messaging |
 | **🔐 Encryption** | Fernet symmetric encryption | End-to-end security | Message privacy |
 | **⚡ Caching** | Redis + Pub/Sub | Ultra-fast delivery | Real-time sync |
-| **🗄️ Storage** | Firestore + PostgreSQL | Scalable persistence | Message history |
+| **🗄️ Storage** | Firestore + Realtime DB | Scalable persistence | Message history |
 
-**🔧 Technical Implementation:**
-- **WebSocket connections** for instant message delivery
-- **Message encryption** using Fernet for security
-- **Redis caching** for ultra-fast message routing
-- **Cross-instance messaging** via Google Cloud Pub/Sub
+| **Implementation** | **Technology** | **Details** |
+|-------------------|----------------|-------------|
+| **Direct Messaging** | FastAPI WebSocket | Real-time PM between users |
+| **Message Persistence** | Firebase Firestore | Chat history with timestamps |
+| **Friend Management** | PostgreSQL | Friend lists and blocking |
+| **Rate Limiting** | Redis | Prevents spam and abuse |
+| **Request Tracking** | Custom Middleware | Logs all chat activities |
 
 </div>
 
@@ -555,14 +559,17 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 |----------------|---------------------|-----------------|--------------|
 | **🏆 Points System** | Redis counters | Real-time updates | Achievement tracking |
 | **🎯 Interactive Games** | Flutter animations | 60fps gameplay | Smooth UX |
-| **📊 Progress Analytics** | PostgreSQL + Redis | Data-driven insights | User behavior |
+| **📊 Progress Analytics** | Neon PostgreSQL + Redis | Data-driven insights | User behavior |
 | **🎨 UI/UX** | Flutter + Custom widgets | Responsive design | Cross-platform |
 
-**🔧 Technical Implementation:**
-- **Redis-based counters** for real-time point tracking
-- **Flutter animations** for smooth 60fps gameplay
-- **Behavioral psychology** integration for engagement
-- **Achievement system** with PostgreSQL analytics
+| **Implementation** | **Technology** | **Details** |
+|-------------------|----------------|-------------|
+| **Quiz Game** | Gemini AI 2.5 Pro | Daily 20-question quiz, auto-refresh at 12 AM |
+| **Points Scoring** | Redis Counters | 20 pts correct, 5 pts participation |
+| **Session Management** | Redis TTL | 30-minute quiz session timeout |
+| **Daily Streaks** | PostgreSQL | Track consecutive days of activity |
+| **Achievement Badges** | Cache Service | Real-time badge unlocking system |
+| **Shop Integration** | User Service | Redeem points for AI consultations, tickets |
 
 </div>
 
@@ -574,16 +581,19 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 | **Component** | **Technology Stack** | **Performance** | **Features** |
 |----------------|---------------------|-----------------|--------------|
-| **🗺️ Maps Integration** | Google Maps API + C# .NET | Real-time navigation | Location services |
-| **📱 QR Code System** | C# .NET Core | Instant verification | Secure access |
-| **📅 Booking System** | .NET Core + PostgreSQL | Automated workflows | Appointment management |
-| **💳 Payment Processing** | Stripe + .NET Core | PCI compliance | Secure transactions |
+| **🗺️ Maps Integration** | Google Maps API + .NET 9.0 | Real-time navigation | Location services |
+| **📱 QR Code System** | .NET Core + JWT Tokens | Instant verification | Time-limited access |
+| **📅 Booking System** | .NET Core + Neon PostgreSQL | Automated workflows | Appointment management |
+| **💳 Payment Processing** | Google Play Store + Firebase | PCI compliance | Secure transactions |
 
-**🔧 Technical Implementation:**
-- **Google Maps API** for psychologist location services
-- **QR code generation** for secure access control
-- **Automated booking workflows** with .NET Core
-- **Stripe integration** for secure payment processing
+| **Implementation** | **Technology** | **Details** |
+|-------------------|----------------|-------------|
+| **Patient Management** | .NET 9.0 + Entity Framework | CRUD operations with Repository pattern |
+| **QR Token Validation** | JWT + C# | Time-boxed tokens with scope restrictions |
+| **SignalR Notifications** | Microsoft SignalR | Real-time updates to psychologist portal |
+| **Google Maps Places** | Google Places API | Search psychologists with filters |
+| **Distance Matrix** | Google Distance Matrix | Calculate ETA and distance |
+| **Email Notifications** | SMTP | Appointment confirmations and reminders |
 
 </div>
 
@@ -596,15 +606,18 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **Component** | **Technology Stack** | **Performance** | **Features** |
 |----------------|---------------------|-----------------|--------------|
 | **📈 RPM/RPD Tracking** | Redis + Python | Real-time metrics | Performance monitoring |
-| **🔔 Alert System** | Discord webhooks | Instant notifications | Issue detection |
-| **📊 Analytics Dashboard** | Custom monitoring | 99.9% uptime | System health |
-| **☁️ Cloud Logging** | Google Cloud Logging | Proactive debugging | Error tracking |
+| **🔔 Alert System** | Discord webhooks | Instant notifications | 5xx/4xx detection |
+| **📊 Analytics Dashboard** | React Admin + TanStack Query | 99.9% uptime | System health |
+| **☁️ Error Logging** | Redis + Discord | Proactive debugging | Last 100 errors stored |
 
-**🔧 Technical Implementation:**
-- **Redis-based counters** for requests per minute/day tracking
-- **Discord webhook integration** for instant alerts
-- **Custom monitoring dashboard** with real-time metrics
-- **Google Cloud Logging** for comprehensive error tracking
+| **Implementation** | **Technology** | **Details** |
+|-------------------|----------------|-------------|
+| **RPM Tracking** | Redis Counters | Requests per minute per service |
+| **RPD Aggregation** | Redis Daily Keys | Total requests per day tracking |
+| **Error Detection** | Middleware | Auto-log 5xx, 4xx errors with endpoint paths |
+| **Latency Monitoring** | Baseline Comparison | Alert if >150% of baseline latency |
+| **Discord Webhooks** | Python requests | Instant alerts for critical errors |
+| **Admin API** | FastAPI Admin Service | Internal-only metrics endpoints |
 
 </div>
 
@@ -617,15 +630,18 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **Component** | **Technology Stack** | **Performance** | **Features** |
 |----------------|---------------------|-----------------|--------------|
 | **🐳 Containerization** | Docker + Multi-stage builds | Consistent environments | Service isolation |
-| **☸️ Orchestration** | Kubernetes + GKE | Auto-scaling | High availability |
-| **🔄 CI/CD Pipeline** | Google Cloud Build | Zero-downtime updates | Automated deployment |
-| **🌐 Load Balancing** | Traefik + GCP | Global distribution | Traffic management |
+| **☁️ Serverless Deploy** | Google Cloud Run | Auto-scaling 0-1000 | High availability |
+| **🔄 Local Development** | Docker Compose + Nginx | Port 5184 | Psychologist service |
+| **🌐 Global Distribution** | Cloud Run Multi-region | Global load balancing | Low latency |
 
-**🔧 Technical Implementation:**
-- **Docker containers** for consistent deployment environments
-- **Kubernetes orchestration** with Google GKE for auto-scaling
-- **CI/CD pipeline** with Google Cloud Build for automated deployments
-- **Traefik load balancer** for global traffic distribution
+| **Implementation** | **Technology** | **Details** |
+|-------------------|----------------|-------------|
+| **Docker Images** | python:3.11-slim, dotnet/aspnet:9.0 | Optimized base images |
+| **Cloud Run Deploy** | Serverless Containers | Port 8080 (most), 8000 (chat) |
+| **Auto-scaling** | Cloud Run HPA | Scale based on CPU, memory, requests |
+| **Health Checks** | HTTP endpoints | Automatic container restart on failure |
+| **Environment Config** | .env files | Secrets management per service |
+| **Nginx Reverse Proxy** | Local Docker Compose | For psychologist local development
 
 </div>
 
@@ -643,66 +659,117 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 ### 🔧 **System Architecture Diagram**
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                                🌐 CLIENT LAYER                                  │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  📱 Flutter Mobile App    │  🌐 React Admin Panel    │  💻 Psychologist Portal  │
-│  (Cross-platform)         │  (TypeScript + Vite)     │  (React + TailwindCSS)  │
-└─────────────────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                              🔐 AUTHENTICATION LAYER                           │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                    🔑 Firebase Authentication + JWT Tokens                     │
-└─────────────────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                            🏢 MICROSERVICES LAYER                              │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  👤 User Service      │  💬 Chat Service      │  🧠 Emotion Detection        │
-│  (Python FastAPI)     │  (Python FastAPI)     │  (Python + AWS)              │
-│  Port: 9000           │  Port: 9102           │  Port: 9200                  │
-│  • User Management    │  • WebSocket Real-time │  • Facial Recognition        │
-│  • Authentication     │  • Message Encryption  │  • Voice Analysis            │
-│  • Profile Management │  • Rate Limiting      │  • Emotion Classification    │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  🎮 Quiz Service      │  🏆 Reward Service     │  👨‍⚕️ Psychologist Service     │
-│  (Python FastAPI)     │  (Python FastAPI)     │  (C# .NET Core)             │
-│  Port: 9300           │  Port: 9400           │  Port: 9500                  │
-│  • Mental Health Quiz │  • Points System       │  • Psychologist Management   │
-│  • Assessment Logic    │  • Gamification        │  • Booking System           │
-│  • Progress Tracking  │  • Achievement System  │  • QR Code Integration       │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  💳 Payment Service   │  🛠️ Admin Service     │                              │
-│  (C# .NET Core)       │  (Python FastAPI)     │                              │
-│  Port: 9600           │  Port: 9700           │                              │
-│  • Payment Processing │  • System Management  │                              │
-│  • Transaction History│  • Analytics Dashboard │                              │
-│  • Billing Management │  • User Management    │                              │
-└─────────────────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                              💾 DATA LAYER                                     │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  🔥 Firebase/Firestore  │  🗄️ PostgreSQL      │  ⚡ Redis Cache              │
-│  • User Data            │  • Transaction Data  │  • Session Management        │
-│  • Chat Messages        │  • Quiz Results      │  • Rate Limiting            │
-│  • Real-time Sync       │  • Payment Records   │  • Real-time Counters       │
-└─────────────────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                              ☁️ CLOUD INFRASTRUCTURE                          │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  🌐 Google Cloud Platform  │  🐳 Docker Containers  │  ☸️ Kubernetes Orchestration │
-│  • Cloud Run Services      │  • Service Isolation    │  • Auto-scaling            │
-│  • Cloud SQL Database      │  • Environment Config  │  • Load Balancing          │
-│  • Cloud Storage           │  • Health Checks       │  • Service Discovery      │
-└─────────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+graph TB
+    subgraph CLIENT["🌐 CLIENT LAYER"]
+        Mobile["📱 Flutter Mobile App<br/>End Users<br/>Camera | Speech | Maps"]
+        Admin["🌐 React Admin Dashboard<br/>TypeScript + Vite<br/>Analytics | Monitoring"]
+        Psycho["💻 React Psychologist Portal<br/>SignalR | QR Scanner<br/>Patient Management"]
+    end
+
+    subgraph FASTAPI["⚡ FASTAPI SERVICES (Python)"]
+        User["👤 User Service<br/>Port: 8080/9000<br/>95 Routes<br/>Auth | Mood | Bookings | Shop"]
+        Chat["💬 ChatService<br/>Port: 8000<br/>WebSocket | Direct PM<br/>Firestore Storage"]
+    end
+
+    subgraph MICROSERVICES["🐍 PYTHON MICROSERVICES"]
+        Emotion["🎭 EmotionDetection<br/>Flask | Port: 8080<br/>AWS Rekognition<br/>7 Core Emotions"]
+        Quiz["🧠 QuizService<br/>Port: 9203<br/>Gemini AI 2.5<br/>Daily Quiz (20 pts)"]
+        Reward["🏆 RewardPoints<br/>Port: 9103<br/>Points | Achievements<br/>Daily Streaks"]
+        AdminSvc["📊 Admin Service<br/>Port: 8080<br/>RPM/RPD Tracking<br/>Discord Alerts"]
+        Payment["💳 PaymentService<br/>Python<br/>Google Play Store<br/>Subscriptions"]
+    end
+
+    subgraph DOTNET["🔷 .NET C# SERVICE"]
+        PsychoSvc["👨‍⚕️ Psychologist<br/>.NET 9.0 | Port: 8080<br/>Patient Management<br/>QR Validation | SignalR"]
+    end
+
+    subgraph DATA["💾 DATA LAYER"]
+        Neon["🐘 Neon PostgreSQL<br/>Auth | Core Data<br/>Patient Records"]
+        FireDB["🔥 Firebase/Firestore<br/>Chat Messages<br/>Transactions | Payments"]
+        RealtimeDB["🔥 Firebase Realtime<br/>Live Chat<br/>Push Notifications"]
+        Redis["⚡ Redis Cache<br/>RPM/RPD | Sessions<br/>Quiz State (30min)"]
+    end
+
+    subgraph EXTERNAL["🌐 EXTERNAL SERVICES"]
+        Maps["📍 Google Maps API<br/>Places | Distance Matrix<br/>Directions"]
+        Gemini["🤖 Google Gemini AI<br/>Quiz Generation<br/>AI Insights"]
+        AWS["☁️ AWS Rekognition<br/>Facial Emotion<br/>95% Accuracy"]
+        Discord["🔔 Discord Webhooks<br/>Error Alerts<br/>5xx Monitoring"]
+        GooglePlay["💳 Google Play Store<br/>Payment Processing<br/>In-App Purchases"]
+    end
+
+    subgraph INFRA["☁️ GOOGLE CLOUD INFRASTRUCTURE"]
+        CloudRun["🚀 Cloud Run<br/>Serverless Deploy<br/>Auto-scaling"]
+        Storage["📁 Cloud Storage<br/>File Assets<br/>Media Storage"]
+    end
+
+    Mobile --> User
+    Mobile --> Chat
+    Mobile --> Emotion
+    Mobile --> Quiz
+    Mobile --> Reward
+    Mobile --> Payment
+
+    Admin --> AdminSvc
+    Psycho --> PsychoSvc
+
+    User --> Neon
+    User --> FireDB
+    User --> RealtimeDB
+    User --> Redis
+    User --> Maps
+    User --> Discord
+
+    Chat --> FireDB
+    Chat --> Redis
+    Chat --> Discord
+
+    Emotion --> AWS
+    Emotion --> Redis
+    Emotion --> Discord
+
+    Quiz --> Gemini
+    Quiz --> Redis
+    Quiz --> Discord
+
+    Reward --> Neon
+    Reward --> Redis
+    Reward --> Discord
+
+    Payment --> GooglePlay
+    Payment --> FireDB
+    Payment --> Redis
+    Payment --> Discord
+
+    AdminSvc --> Neon
+    AdminSvc --> Redis
+    AdminSvc --> Discord
+
+    PsychoSvc --> Neon
+    PsychoSvc --> FireDB
+    PsychoSvc --> Redis
+    PsychoSvc --> Maps
+    PsychoSvc --> Discord
+
+    User --> CloudRun
+    Chat --> CloudRun
+    Emotion --> CloudRun
+    Quiz --> CloudRun
+    Reward --> CloudRun
+    AdminSvc --> CloudRun
+    PsychoSvc --> CloudRun
+
+    FireDB --> Storage
+    RealtimeDB --> Storage
+
+    style CLIENT fill:#2b2d42,stroke:#4a4e69,stroke-width:3px,color:#fff
+    style FASTAPI fill:#009688,stroke:#004d40,stroke-width:3px,color:#fff
+    style MICROSERVICES fill:#3776AB,stroke:#ffd43b,stroke-width:3px,color:#fff
+    style DOTNET fill:#512BD4,stroke:#fff,stroke-width:3px,color:#fff
+    style DATA fill:#1d3557,stroke:#457b9d,stroke-width:3px,color:#fff
+    style EXTERNAL fill:#FF6B00,stroke:#fff,stroke-width:3px,color:#fff
+    style INFRA fill:#4285F4,stroke:#34A853,stroke-width:3px,color:#fff
 ```
 
 ### 🛠️ **Service Breakdown**
@@ -711,14 +778,14 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 | **Service** | **Technology** | **Port** | **Key Features** | **Database** |
 |-------------|----------------|----------|------------------|--------------|
-| **👤 User Service** | Python FastAPI | 9000 | Authentication, Profile Management, JWT | Firebase |
-| **💬 Chat Service** | Python FastAPI + WebSocket | 9102 | Real-time messaging, Encryption, Rate limiting | Firestore + Redis |
-| **🧠 Emotion Detection** | Python + AWS Rekognition | 9200 | Facial analysis, Voice processing, ML models | AWS S3 |
-| **🎮 Quiz Service** | Python FastAPI | 9300 | Mental health assessments, Progress tracking | PostgreSQL |
-| **🏆 Reward Service** | Python FastAPI | 9400 | Points system, Gamification, Achievements | PostgreSQL + Redis |
-| **👨‍⚕️ Psychologist Service** | C# .NET Core | 9500 | Booking system, QR codes, Google Maps | PostgreSQL |
-| **💳 Payment Service** | C# .NET Core | 9600 | Payment processing, Billing, Transactions | PostgreSQL |
-| **🛠️ Admin Service** | Python FastAPI | 9700 | System management, Analytics, User management | PostgreSQL + Redis |
+| **👤 User Service** | Python FastAPI | 8080 (Cloud) / 9000 (Local) | 95 Routes: Auth, Mood, Bookings, Shop, QR Access, Social | Neon PostgreSQL + Firestore |
+| **💬 ChatService** | Python FastAPI + WebSocket | 8000 | Direct PM, Real-time WebSocket, Chat History | Firestore + Redis |
+| **🎭 EmotionDetection** | Flask (Python) | 8080 | AWS Rekognition, 7 Emotions, Base64 Processing | Redis Cache |
+| **🧠 QuizService** | Python FastAPI + Uvicorn | 9203 | Gemini AI 2.5, Daily Quiz (20 pts), 30min Timeout | Redis (Session) |
+| **🏆 RewardPoints** | Python FastAPI | 9103 | Points, Achievements, Streaks, Shop Integration | Neon PostgreSQL + Redis |
+| **💳 PaymentService** | Python | - | Google Play Store, Subscriptions, Top-ups | Firestore + Redis |
+| **📊 Admin Service** | Python FastAPI | 8080 | RPM/RPD Tracking, Discord Alerts, User Management | Neon PostgreSQL + Redis |
+| **👨‍⚕️ Psychologist** | .NET 9.0 C# | 8080 (Cloud) / 5184 (Local) | Patient Management, QR Validation, SignalR, Bookings | Neon PostgreSQL + Firestore |
 
 </div>
 
@@ -726,27 +793,109 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                              🚀 PRODUCTION DEPLOYMENT                          │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  🌐 Domain: faceofmind.it.com                                                  │
-│  🔒 SSL: Let's Encrypt Certificate                                             │
-│  ⚡ CDN: Cloudflare (Global Distribution)                                      │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  ☸️ Kubernetes Cluster (Google GKE)                                            │
-│  ├── 🐳 Docker Containers (Auto-scaling)                                       │
-│  ├── 🔄 Load Balancer (Traefik)                                               │
-│  ├── 📊 Monitoring (Prometheus + Grafana)                                      │
-│  └── 🔔 Alerting (Discord Webhooks)                                            │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  ☁️ Google Cloud Services                                                       │
-│  ├── 🗄️ Cloud SQL (PostgreSQL)                                                │
-│  ├── 🔥 Firebase (Authentication + Firestore)                                  │
-│  ├── ⚡ Redis (Memory Cache)                                                   │
-│  ├── 📁 Cloud Storage (File Storage)                                           │
-│  └── 🔧 Cloud Build (CI/CD Pipeline)                                          │
-└─────────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+graph TB
+    subgraph EDGE["🌐 EDGE LAYER"]
+        Domain["🌐 faceofmind.it.com"]
+        SSL["🔒 SSL Certificates"]
+    end
+
+    subgraph CLOUDRUN["🚀 GOOGLE CLOUD RUN (Serverless)"]
+        subgraph CONTAINERS["🐳 DOCKER CONTAINERS"]
+            User["User Service<br/>python:3.11-slim<br/>Port: 8080"]
+            Chat["ChatService<br/>python:3.10-slim<br/>Port: 8000"]
+            Emotion["EmotionDetection<br/>python:3.11-slim<br/>Port: 8080"]
+            Quiz["QuizService<br/>python:3.11-slim<br/>Port: 9203"]
+            Reward["RewardPoints<br/>python:3.11-slim<br/>Port: 9103"]
+            AdminSvc["Admin Service<br/>python:3.11-slim<br/>Port: 8080"]
+            Psycho[".NET Psychologist<br/>dotnet/aspnet:9.0<br/>Port: 8080"]
+        end
+
+        AutoScale["📈 Auto-scaling<br/>0 to 1000+ instances<br/>Based on traffic"]
+    end
+
+    subgraph LOCAL["💻 LOCAL DEVELOPMENT"]
+        DockerCompose["🐳 Docker Compose<br/>Nginx Proxy<br/>Port: 5184 (Psychologist)"]
+    end
+
+    subgraph DATA["💾 DATABASES"]
+        Neon["🐘 Neon PostgreSQL<br/>Serverless<br/>Auth & Core Data"]
+        Firebase["🔥 Firebase<br/>Firestore + Realtime<br/>Chat & Transactions"]
+        RedisDB["⚡ Redis<br/>Upstash/Redis Cloud<br/>RPM/RPD & Cache"]
+    end
+
+    subgraph MONITORING["📊 MONITORING & ALERTS"]
+        RedisMetrics["⚡ Redis Tracking<br/>RPM/RPD Metrics<br/>Error Logging"]
+        DiscordAlert["🔔 Discord Webhooks<br/>5xx/4xx Alerts<br/>Latency Warnings"]
+    end
+
+    subgraph EXTERNAL["🌐 EXTERNAL APIS"]
+        AWS["☁️ AWS Rekognition<br/>Emotion Detection"]
+        Maps["📍 Google Maps<br/>Places | Distance Matrix"]
+        Gemini["🤖 Gemini AI 2.5<br/>Quiz Generation"]
+        PlayStore["💳 Google Play<br/>In-App Payments"]
+    end
+
+    Domain --> SSL
+    SSL --> User
+    SSL --> Chat
+    SSL --> Emotion
+    SSL --> Quiz
+    SSL --> Reward
+    SSL --> AdminSvc
+    SSL --> Psycho
+
+    User --> Neon
+    User --> Firebase
+    User --> RedisDB
+    User --> Maps
+    User --> RedisMetrics
+
+    Chat --> Firebase
+    Chat --> RedisDB
+    Chat --> RedisMetrics
+
+    Emotion --> AWS
+    Emotion --> RedisDB
+    Emotion --> RedisMetrics
+
+    Quiz --> Gemini
+    Quiz --> RedisDB
+    Quiz --> RedisMetrics
+
+    Reward --> Neon
+    Reward --> RedisDB
+    Reward --> RedisMetrics
+
+    AdminSvc --> Neon
+    AdminSvc --> RedisDB
+    AdminSvc --> RedisMetrics
+
+    Psycho --> Neon
+    Psycho --> Firebase
+    Psycho --> RedisDB
+    Psycho --> Maps
+    Psycho --> RedisMetrics
+
+    RedisMetrics --> DiscordAlert
+
+    AutoScale -.->|Scales| User
+    AutoScale -.->|Scales| Chat
+    AutoScale -.->|Scales| Emotion
+    AutoScale -.->|Scales| Quiz
+    AutoScale -.->|Scales| Reward
+    AutoScale -.->|Scales| AdminSvc
+    AutoScale -.->|Scales| Psycho
+
+    DockerCompose -.->|Local Dev| Psycho
+
+    style EDGE fill:#2b2d42,stroke:#4a4e69,stroke-width:3px,color:#fff
+    style CLOUDRUN fill:#4285F4,stroke:#34A853,stroke-width:3px,color:#fff
+    style CONTAINERS fill:#2496ED,stroke:#fff,stroke-width:2px,color:#fff
+    style LOCAL fill:#6c757d,stroke:#fff,stroke-width:2px,color:#fff
+    style DATA fill:#1d3557,stroke:#457b9d,stroke-width:3px,color:#fff
+    style MONITORING fill:#E6522C,stroke:#fff,stroke-width:3px,color:#fff
+    style EXTERNAL fill:#FF6B00,stroke:#fff,stroke-width:3px,color:#fff
 ```
 
 </div>
@@ -799,37 +948,97 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                              🎨 FRONTEND LAYER                                 │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  📱 Flutter Mobile    │  🌐 React Admin      │  💻 Psychologist Portal        │
-│  • Cross-platform     │  • TypeScript        │  • TailwindCSS                │
-│  • 60fps animations   │  • Vite build        │  • Responsive design          │
-│  • Custom widgets     │  • Component library │  • Real-time updates          │
-└─────────────────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                              ⚙️ BACKEND LAYER                                  │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  🐍 Python Services    │  🔷 C# .NET Services  │  ☁️ Cloud Services           │
-│  • FastAPI (5 services)│  • .NET Core (2 svcs) │  • AWS Rekognition          │
-│  • WebSocket real-time │  • Entity Framework   │  • Google Cloud Platform     │
-│  • Redis caching       │  • PostgreSQL ORM    │  • Firebase Authentication   │
-│  • Message encryption   │  • Stripe payments   │  • Firestore Database       │
-└─────────────────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                              🗄️ DATA LAYER                                     │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  🗄️ PostgreSQL      │  🔥 Firebase/Firestore │  ⚡ Redis Cache              │
-│  • Transaction data  │  • User authentication │  • Session management         │
-│  • Payment records   │  • Real-time messages  │  • Rate limiting             │
-│  • Quiz results      │  • Chat persistence    │  • Performance counters      │
-│  • Booking system    │  • Push notifications  │  • Real-time analytics       │
-└─────────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+graph LR
+    subgraph FRONTEND["🎨 FRONTEND LAYER"]
+        direction TB
+        Flutter["📱 Flutter 3.8.1<br/>• Camera & Speech-to-Text<br/>• Google Maps & QR Scanner<br/>• WebSocket & Firebase<br/>• SQLite Offline Storage"]
+        ReactAdmin["🌐 React 18.3 Admin<br/>• TypeScript + Vite<br/>• TanStack Query<br/>• Chart.js + Recharts<br/>• shadcn/ui + Tailwind"]
+        ReactPsycho["💻 React 18.3 Psychologist<br/>• SignalR Real-time<br/>• QR Scanner<br/>• Google Maps API<br/>• html2canvas Export"]
+    end
+
+    subgraph BACKEND["⚙️ BACKEND SERVICES"]
+        direction TB
+        subgraph FastAPI["⚡ FastAPI"]
+            UserSvc["User Service (95 routes)<br/>JWT + OAuth Google<br/>Mood Tracking<br/>Shop & Bookings"]
+            ChatSvc["ChatService<br/>WebSocket<br/>Direct Messaging"]
+        end
+
+        subgraph PythonMicro["🐍 Python Microservices"]
+            FlaskEmotion["Flask EmotionDetection<br/>AWS Rekognition"]
+            QuizSvc["QuizService<br/>Gemini AI 2.5"]
+            RewardSvc["RewardPoints<br/>Achievements"]
+            AdminSvc["Admin Service<br/>RPM/RPD Tracking"]
+            PaySvc["PaymentService<br/>Google Play Store"]
+        end
+
+        subgraph DotNet["🔷 .NET 9.0"]
+            PsychoSvc[".NET Psychologist<br/>SignalR<br/>QR Validation<br/>Patient Management"]
+        end
+    end
+
+    subgraph DATA["🗄️ DATA & CACHE"]
+        direction TB
+        NeonDB["🐘 Neon PostgreSQL<br/>Serverless<br/>Auth & Core Data"]
+        FirebaseDB["🔥 Firebase<br/>Firestore (Chat/Transactions)<br/>Realtime (Live Updates)<br/>FCM (Push Notifications)"]
+        RedisCache["⚡ Redis<br/>RPM/RPD Metrics<br/>Quiz Sessions (30min)<br/>Rate Limiting"]
+    end
+
+    subgraph AI["🤖 AI & EXTERNAL"]
+        direction TB
+        GeminiAI["🧠 Gemini AI 2.5 Pro<br/>Quiz Generation<br/>AI Insights"]
+        AWSRek["☁️ AWS Rekognition<br/>7 Emotion Detection<br/>95% Accuracy"]
+        GoogleMaps["📍 Google Maps<br/>Places API<br/>Distance Matrix<br/>Directions"]
+        GooglePlay["💳 Google Play Store<br/>In-App Payments<br/>Subscriptions"]
+        DiscordHook["🔔 Discord Webhooks<br/>Error Alerts<br/>5xx Monitoring"]
+    end
+
+    Flutter --> UserSvc
+    Flutter --> ChatSvc
+    Flutter --> FlaskEmotion
+    Flutter --> QuizSvc
+    Flutter --> RewardSvc
+    Flutter --> PaySvc
+
+    ReactAdmin --> AdminSvc
+    ReactPsycho --> PsychoSvc
+
+    UserSvc --> NeonDB
+    UserSvc --> FirebaseDB
+    UserSvc --> RedisCache
+    UserSvc --> GoogleMaps
+    UserSvc --> DiscordHook
+
+    ChatSvc --> FirebaseDB
+    ChatSvc --> RedisCache
+
+    FlaskEmotion --> AWSRek
+    FlaskEmotion --> RedisCache
+
+    QuizSvc --> GeminiAI
+    QuizSvc --> RedisCache
+
+    RewardSvc --> NeonDB
+    RewardSvc --> RedisCache
+
+    PaySvc --> GooglePlay
+    PaySvc --> FirebaseDB
+
+    AdminSvc --> NeonDB
+    AdminSvc --> RedisCache
+    AdminSvc --> DiscordHook
+
+    PsychoSvc --> NeonDB
+    PsychoSvc --> FirebaseDB
+    PsychoSvc --> GoogleMaps
+
+    style FRONTEND fill:#2b2d42,stroke:#4a4e69,stroke-width:3px,color:#fff
+    style BACKEND fill:#3a506b,stroke:#5bc0be,stroke-width:3px,color:#fff
+    style FastAPI fill:#009688,stroke:#004d40,stroke-width:2px,color:#fff
+    style PythonMicro fill:#3776AB,stroke:#ffd43b,stroke-width:2px,color:#fff
+    style DotNet fill:#512BD4,stroke:#fff,stroke-width:2px,color:#fff
+    style DATA fill:#1d3557,stroke:#457b9d,stroke-width:3px,color:#fff
+    style AI fill:#FF6B00,stroke:#fff,stroke-width:3px,color:#fff
 ```
 
 </div>
@@ -840,15 +1049,67 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 <img src="https://img.shields.io/badge/🚀-Deployment%20Pipeline-success?style=for-the-badge&logo=rocket&logoColor=white" />
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                              🔄 CI/CD WORKFLOW                                 │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  📝 Code Commit → 🐳 Docker Build → ☸️ K8s Deploy → 📊 Monitor → 🔔 Alert    │
-│  • Git push      │  • Multi-stage   │  • Auto-scale   │  • Prometheus │  • Discord │
-│  • Branch merge  │  • Image registry│  • Health check │  • Grafana    │  • Slack  │
-│  • PR review    │  • Security scan │  • Load balance │  • Logging    │  • Email  │
-└─────────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+graph LR
+    subgraph DEV["👨‍💻 DEVELOPMENT"]
+        Code["📝 Git Push<br/>development branch"]
+        Local["💻 Local Testing<br/>Docker Compose<br/>Nginx (Port 5184)"]
+    end
+
+    subgraph BUILD["🔨 DOCKER BUILD"]
+        Dockerfile["🐳 Dockerfiles<br/>Python 3.10-3.11<br/>.NET 9.0<br/>Multi-stage builds"]
+        Images["📦 Container Images<br/>python:3.11-slim<br/>dotnet/aspnet:9.0<br/>python:3.10-slim"]
+    end
+
+    subgraph DEPLOY["🚀 GOOGLE CLOUD RUN"]
+        Deploy["☁️ Cloud Run Deploy<br/>Serverless Containers<br/>Auto-scaling (0-1000)"]
+        Services["🌐 Live Services<br/>8 Microservices<br/>Port 8080 (Most)<br/>Port 8000 (Chat)"]
+    end
+
+    subgraph DATABASE["💾 DATABASE SETUP"]
+        NeonSetup["🐘 Neon PostgreSQL<br/>Connection Pooling<br/>Auto-suspend"]
+        FirebaseSetup["🔥 Firebase Setup<br/>Firestore Rules<br/>Realtime DB<br/>FCM Tokens"]
+        RedisSetup["⚡ Redis Setup<br/>Upstash/Cloud<br/>TTL Configuration"]
+    end
+
+    subgraph MONITORING["📊 REAL-TIME MONITORING"]
+        RedisMetrics["⚡ Redis RPM/RPD<br/>Request Tracking<br/>Error Logging<br/>Latency Monitoring"]
+        Discord["🔔 Discord Alerts<br/>5xx Errors<br/>4xx Warnings<br/>Latency Spikes"]
+        AdminDash["📊 Admin Dashboard<br/>React Analytics<br/>Service Health<br/>Real-time Stats"]
+    end
+
+    subgraph EXTERNAL["🌐 API INTEGRATION"]
+        AWSSetup["☁️ AWS Rekognition<br/>API Keys<br/>Region Config"]
+        MapsSetup["📍 Google Maps<br/>API Keys<br/>Quota Management"]
+        GeminiSetup["🤖 Gemini AI<br/>API Keys<br/>2.5 Pro Model"]
+        PlaySetup["💳 Google Play<br/>Service Account<br/>Payment Config"]
+    end
+
+    Code --> Local
+    Local --> Dockerfile
+    Dockerfile --> Images
+    Images --> Deploy
+    Deploy --> Services
+
+    Services --> NeonSetup
+    Services --> FirebaseSetup
+    Services --> RedisSetup
+
+    Services --> AWSSetup
+    Services --> MapsSetup
+    Services --> GeminiSetup
+    Services --> PlaySetup
+
+    Services --> RedisMetrics
+    RedisMetrics --> Discord
+    RedisMetrics --> AdminDash
+
+    style DEV fill:#2b2d42,stroke:#4a4e69,stroke-width:3px,color:#fff
+    style BUILD fill:#3a506b,stroke:#5bc0be,stroke-width:3px,color:#fff
+    style DEPLOY fill:#4285F4,stroke:#34A853,stroke-width:3px,color:#fff
+    style DATABASE fill:#1d3557,stroke:#457b9d,stroke-width:3px,color:#fff
+    style MONITORING fill:#E6522C,stroke:#fff,stroke-width:3px,color:#fff
+    style EXTERNAL fill:#FF6B00,stroke:#fff,stroke-width:3px,color:#fff
 ```
 
 </div>
