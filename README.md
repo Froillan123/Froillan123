@@ -128,7 +128,8 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GCP Firestore](https://img.shields.io/badge/GCP%20Firestore-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
@@ -152,14 +153,13 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 
 <div align="center">
 
-### 🔥 **Firebase Ecosystem**
+### ☁️ **GCP & Firebase Services**
 
 </div>
 
 <div align="center">
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-F57C00?style=for-the-badge&logo=firebase&logoColor=white)
+![GCP Firestore](https://img.shields.io/badge/GCP%20Firestore-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![FCM](https://img.shields.io/badge/FCM-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -182,7 +182,7 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 ### 🏆 **Achievements & Stats:**
 - **📈 Active Contributor** - Consistent commits across multiple projects
 - **🔧 Full-Stack Expertise** - Proficient in both frontend and backend technologies
-- **☁️ Cloud Native** - Extensive experience with Google Cloud Platform and Firebase
+- **☁️ Cloud Native** - Extensive experience with Google Cloud Platform, GCP Firestore/Datastore, and MongoDB
 - **🤖 AI/ML Focus** - Specializing in emotion detection and intelligent applications
 - **📱 Mobile Development** - Flutter expert with cross-platform expertise
 
@@ -198,7 +198,8 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **React/TypeScript** | ██████████ 85% | Web Development | Admin Dashboard, Web Apps |
 | **FastAPI** | ████████████ 90% | API Development | Microservices Architecture |
 | **Google Cloud** | ██████████ 85% | Cloud Infrastructure | Production Deployment |
-| **Firebase** | ████████████ 90% | Real-time Database | Authentication, Firestore |
+| **GCP Firestore/Datastore** | ████████████ 90% | NoSQL Database | Chat Storage, Datastore Mode |
+| **MongoDB** | ██████████ 85% | NoSQL Database | Contact Forms, Admin Data |
 | **Redis** | ██████████ 80% | Caching & Performance | Real-time Features |
 
 </div>
@@ -259,7 +260,7 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
@@ -309,7 +310,7 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **⚡ WebSocket** | Instant Messaging | Python FastAPI + WebSocket | <100ms latency |
 | **🔐 Message Encryption** | Secure Chat | Fernet encryption | End-to-end security |
 | **⚡ Redis** | Real-time Caching | Session management | Ultra-fast delivery |
-| **🔥 Firestore** | Message Persistence | Real-time database | Scalable storage |
+| **☁️ GCP Firestore/Datastore** | Message Persistence | Datastore mode | Scalable storage |
 
 </div>
 
@@ -335,7 +336,7 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **🗺️ Google Maps** | Psychologist Location | Maps API integration | Real-time navigation |
 | **📱 QR Code System** | Secure Access | C# .NET generation | Instant verification |
 | **📅 Booking System** | Appointment Management | .NET Core scheduling | Automated workflows |
-| **💳 Payment Processing** | Secure Transactions | Stripe integration | PCI compliance |
+| **💳 Payment Processing** | Secure Transactions | Google Play Store | PCI compliance |
 
 </div>
 
@@ -391,7 +392,7 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **🎯 Project Setup** | System Design | Multi-service architecture |
 | **👤 User Service** | Python FastAPI | Authentication & user management |
 | **📱 Flutter Mobile App** | Cross-platform | Main user interface |
-| **🗄️ Database Setup** | PostgreSQL + Firebase | Data persistence |
+| **🗄️ Database Setup** | PostgreSQL + GCP Firestore/Datastore + MongoDB | Data persistence |
 
 </div>
 
@@ -423,7 +424,7 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **⚡ WebSocket Implementation** | Python FastAPI + WebSocket | Real-time messaging |
 | **🔐 Message Encryption** | Fernet encryption | Secure communication |
 | **⚡ Redis Caching** | Redis + Pub/Sub | Fast message delivery |
-| **🔥 Firestore Integration** | Real-time database | Message persistence |
+| **☁️ GCP Firestore/Datastore Integration** | Datastore mode | Message persistence |
 
 </div>
 
@@ -537,12 +538,12 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **⚡ WebSocket** | Python FastAPI + WebSocket | <100ms latency | Instant messaging |
 | **🔐 Encryption** | Fernet symmetric encryption | End-to-end security | Message privacy |
 | **⚡ Caching** | Redis + Pub/Sub | Ultra-fast delivery | Real-time sync |
-| **🗄️ Storage** | Firestore + Realtime DB | Scalable persistence | Message history |
+| **🗄️ Storage** | GCP Firestore/Datastore | Scalable persistence | Message history |
 
 | **Implementation** | **Technology** | **Details** |
 |-------------------|----------------|-------------|
 | **Direct Messaging** | FastAPI WebSocket | Real-time PM between users |
-| **Message Persistence** | Firebase Firestore | Chat history with timestamps |
+| **Message Persistence** | GCP Firestore/Datastore | Chat history with timestamps (Datastore mode) |
 | **Friend Management** | PostgreSQL | Friend lists and blocking |
 | **Rate Limiting** | Redis | Prevents spam and abuse |
 | **Request Tracking** | Custom Middleware | Logs all chat activities |
@@ -584,7 +585,7 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 | **🗺️ Maps Integration** | Google Maps API + .NET 9.0 | Real-time navigation | Location services |
 | **📱 QR Code System** | .NET Core + JWT Tokens | Instant verification | Time-limited access |
 | **📅 Booking System** | .NET Core + Neon PostgreSQL | Automated workflows | Appointment management |
-| **💳 Payment Processing** | Google Play Store + Firebase | PCI compliance | Secure transactions |
+| **💳 Payment Processing** | Google Play Store | PCI compliance | Secure transactions |
 
 | **Implementation** | **Technology** | **Details** |
 |-------------------|----------------|-------------|
@@ -660,116 +661,103 @@ Leading the development of **FaceofMind** - an innovative AI-powered mental heal
 ### 🔧 **System Architecture Diagram**
 
 ```mermaid
-graph TB
-    subgraph CLIENT["🌐 CLIENT LAYER"]
-        Mobile["📱 Flutter Mobile App<br/>End Users<br/>Camera | Speech | Maps"]
-        Admin["🌐 React Admin Dashboard<br/>TypeScript + Vite<br/>Analytics | Monitoring"]
-        Psycho["💻 React Psychologist Portal<br/>SignalR | QR Scanner<br/>Patient Management"]
+graph LR
+    subgraph Frontend["📱 Frontend Layer"]
+        FLUTTER["📱 Flutter App"]
+        ADMIN["💻 Admin Dashboard"]
+        PSYCH["👨‍⚕️ Psychologist Portal"]
+        STATIC["🌐 Static Site"]
     end
 
-    subgraph FASTAPI["⚡ FASTAPI SERVICES (Python)"]
-        User["👤 User Service<br/>Port: 8080/9000<br/>95 Routes<br/>Auth | Mood | Bookings | Shop"]
-        Chat["💬 ChatService<br/>Port: 8000<br/>WebSocket | Direct PM<br/>Firestore Storage"]
+    subgraph Backend["🔄 Backend Services"]
+        USER_SVC["⚡ User Service<br/>(FastAPI)"]
+        CHAT_SVC["💬 ChatService<br/>(FastAPI)"]
+        EMOTION_SVC["🎭 EmotionDetection<br/>(Flask)"]
+        ADMIN_SVC["📊 Admin Service<br/>(Python)"]
+        QUIZ_SVC["🧠 QuizService<br/>(Python)"]
+        REWARD_SVC["🎮 RewardPoints<br/>(Python)"]
+        PAY_SVC["💳 PaymentService<br/>(Python)"]
+        PSYCH_SVC["👨‍⚕️ Psychologist Service<br/>(.NET)"]
+        SYNC_FUNC["🔄 DB Sync Function<br/>(Cloud Function)"]
     end
 
-    subgraph MICROSERVICES["🐍 PYTHON MICROSERVICES"]
-        Emotion["🎭 EmotionDetection<br/>Flask | Port: 8080<br/>AWS Rekognition<br/>7 Core Emotions"]
-        Quiz["🧠 QuizService<br/>Port: 9203<br/>Gemini AI 2.5<br/>Daily Quiz (20 pts)"]
-        Reward["🏆 RewardPoints<br/>Port: 9103<br/>Points | Achievements<br/>Daily Streaks"]
-        AdminSvc["📊 Admin Service<br/>Port: 8080<br/>RPM/RPD Tracking<br/>Discord Alerts"]
-        Payment["💳 PaymentService<br/>Python<br/>Google Play Store<br/>Subscriptions"]
+    subgraph Data["🗄️ Data Layer"]
+        PG["🐘 PostgreSQL"]
+        FIRESTORE["☁️ GCP Firestore/Datastore"]
+        MONGO["🍃 MongoDB"]
+        REDIS["🔴 Redis"]
     end
 
-    subgraph DOTNET["🔷 .NET C# SERVICE"]
-        PsychoSvc["👨‍⚕️ Psychologist<br/>.NET 9.0 | Port: 8080<br/>Patient Management<br/>QR Validation | SignalR"]
+    subgraph External["🗺️ External Services"]
+        MAPS_API["📍 Google Maps"]
+        DISCORD_WB["🔔 Discord"]
+        GEMINI_AI["🤖 Gemini AI"]
+        AWS_REK["☁️ AWS Rekognition"]
+        RECAPTCHA_V3["🛡️ reCAPTCHA"]
     end
 
-    subgraph DATA["💾 DATA LAYER"]
-        Neon["🐘 Neon PostgreSQL<br/>Auth | Core Data<br/>Patient Records"]
-        FireDB["🔥 Firebase/Firestore<br/>Chat Messages<br/>Transactions | Payments"]
-        RealtimeDB["🔥 Firebase Realtime<br/>Live Chat<br/>Push Notifications"]
-        Redis["⚡ Redis Cache<br/>RPM/RPD | Sessions<br/>Quiz State (30min)"]
-    end
+    %% Frontend to Backend
+    FLUTTER --> USER_SVC
+    FLUTTER --> EMOTION_SVC
+    FLUTTER --> CHAT_SVC
+    FLUTTER --> REWARD_SVC
+    FLUTTER --> QUIZ_SVC
+    ADMIN --> ADMIN_SVC
+    PSYCH --> PSYCH_SVC
+    STATIC --> ADMIN_SVC
+    STATIC --> RECAPTCHA_V3
 
-    subgraph EXTERNAL["🌐 EXTERNAL SERVICES"]
-        Maps["📍 Google Maps API<br/>Places | Distance Matrix<br/>Directions"]
-        Gemini["🤖 Google Gemini AI<br/>Quiz Generation<br/>AI Insights"]
-        AWS["☁️ AWS Rekognition<br/>Facial Emotion<br/>95% Accuracy"]
-        Discord["🔔 Discord Webhooks<br/>Error Alerts<br/>5xx Monitoring"]
-        GooglePlay["💳 Google Play Store<br/>Payment Processing<br/>In-App Purchases"]
-    end
+    %% Backend to Data
+    USER_SVC --> PG
+    USER_SVC --> REDIS
+    CHAT_SVC --> FIRESTORE
+    CHAT_SVC --> REDIS
+    EMOTION_SVC --> REDIS
+    ADMIN_SVC --> PG
+    ADMIN_SVC --> MONGO
+    ADMIN_SVC --> REDIS
+    QUIZ_SVC --> REDIS
+    REWARD_SVC --> PG
+    REWARD_SVC --> REDIS
+    PAY_SVC --> REDIS
+    PSYCH_SVC --> PG
+    PSYCH_SVC --> REDIS
+    SYNC_FUNC --> PG
 
-    subgraph INFRA["☁️ GOOGLE CLOUD INFRASTRUCTURE"]
-        CloudRun["🚀 Cloud Run<br/>Serverless Deploy<br/>Auto-scaling"]
-        Storage["📁 Cloud Storage<br/>File Assets<br/>Media Storage"]
-    end
+    %% Backend to External
+    USER_SVC --> MAPS_API
+    PSYCH_SVC --> MAPS_API
+    EMOTION_SVC --> AWS_REK
+    QUIZ_SVC --> GEMINI_AI
+    ADMIN_SVC --> RECAPTCHA_V3
+    USER_SVC --> DISCORD_WB
+    CHAT_SVC --> DISCORD_WB
+    EMOTION_SVC --> DISCORD_WB
+    QUIZ_SVC --> DISCORD_WB
+    REWARD_SVC --> DISCORD_WB
+    PAY_SVC --> DISCORD_WB
+    ADMIN_SVC --> DISCORD_WB
+    SYNC_FUNC --> DISCORD_WB
+    PSYCH_SVC --> DISCORD_WB
 
-    Mobile --> User
-    Mobile --> Chat
-    Mobile --> Emotion
-    Mobile --> Quiz
-    Mobile --> Reward
-    Mobile --> Payment
+    %% Styling
+    classDef frontend fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000
+    classDef fastapi fill:#009688,stroke:#004d40,stroke-width:2px,color:#fff
+    classDef flask fill:#000000,stroke:#ffffff,stroke-width:2px,color:#fff
+    classDef python fill:#3776ab,stroke:#ffd43b,stroke-width:2px,color:#fff
+    classDef dotnet fill:#512bd4,stroke:#ffffff,stroke-width:2px,color:#fff
+    classDef data fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px,color:#000
+    classDef external fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#000
+    classDef cloud fill:#f3e5f5,stroke:#4a148c,stroke-width:2px,color:#000
 
-    Admin --> AdminSvc
-    Psycho --> PsychoSvc
-
-    User --> Neon
-    User --> FireDB
-    User --> RealtimeDB
-    User --> Redis
-    User --> Maps
-    User --> Discord
-
-    Chat --> FireDB
-    Chat --> Redis
-    Chat --> Discord
-
-    Emotion --> AWS
-    Emotion --> Redis
-    Emotion --> Discord
-
-    Quiz --> Gemini
-    Quiz --> Redis
-    Quiz --> Discord
-
-    Reward --> Neon
-    Reward --> Redis
-    Reward --> Discord
-
-    Payment --> GooglePlay
-    Payment --> FireDB
-    Payment --> Redis
-    Payment --> Discord
-
-    AdminSvc --> Neon
-    AdminSvc --> Redis
-    AdminSvc --> Discord
-
-    PsychoSvc --> Neon
-    PsychoSvc --> FireDB
-    PsychoSvc --> Redis
-    PsychoSvc --> Maps
-    PsychoSvc --> Discord
-
-    User --> CloudRun
-    Chat --> CloudRun
-    Emotion --> CloudRun
-    Quiz --> CloudRun
-    Reward --> CloudRun
-    AdminSvc --> CloudRun
-    PsychoSvc --> CloudRun
-
-    FireDB --> Storage
-    RealtimeDB --> Storage
-
-    style CLIENT fill:#2b2d42,stroke:#4a4e69,stroke-width:3px,color:#fff
-    style FASTAPI fill:#009688,stroke:#004d40,stroke-width:3px,color:#fff
-    style MICROSERVICES fill:#3776AB,stroke:#ffd43b,stroke-width:3px,color:#fff
-    style DOTNET fill:#512BD4,stroke:#fff,stroke-width:3px,color:#fff
-    style DATA fill:#1d3557,stroke:#457b9d,stroke-width:3px,color:#fff
-    style EXTERNAL fill:#FF6B00,stroke:#fff,stroke-width:3px,color:#fff
-    style INFRA fill:#4285F4,stroke:#34A853,stroke-width:3px,color:#fff
+    class FLUTTER,ADMIN,PSYCH,STATIC frontend
+    class USER_SVC,CHAT_SVC fastapi
+    class EMOTION_SVC flask
+    class ADMIN_SVC,QUIZ_SVC,REWARD_SVC,PAY_SVC python
+    class PSYCH_SVC dotnet
+    class SYNC_FUNC cloud
+    class PG,FIRESTORE,MONGO,REDIS data
+    class MAPS_API,DISCORD_WB,GEMINI_AI,AWS_REK,RECAPTCHA_V3 external
 ```
 
 ### 🛠️ **Service Breakdown**
@@ -778,14 +766,14 @@ graph TB
 
 | **Service** | **Technology** | **Port** | **Key Features** | **Database** |
 |-------------|----------------|----------|------------------|--------------|
-| **👤 User Service** | Python FastAPI | 8080 (Cloud) / 9000 (Local) | 95 Routes: Auth, Mood, Bookings, Shop, QR Access, Social | Neon PostgreSQL + Firestore |
-| **💬 ChatService** | Python FastAPI + WebSocket | 8000 | Direct PM, Real-time WebSocket, Chat History | Firestore + Redis |
+| **👤 User Service** | Python FastAPI | 8080 (Cloud) / 9000 (Local) | 95 Routes: Auth, Mood, Bookings, Shop, QR Access, Social | Neon PostgreSQL + Redis |
+| **💬 ChatService** | Python FastAPI + WebSocket | 8000 | Direct PM, Real-time WebSocket, Chat History | GCP Firestore/Datastore + Redis |
 | **🎭 EmotionDetection** | Flask (Python) | 8080 | AWS Rekognition, 7 Emotions, Base64 Processing | Redis Cache |
 | **🧠 QuizService** | Python FastAPI + Uvicorn | 9203 | Gemini AI 2.5, Daily Quiz (20 pts), 30min Timeout | Redis (Session) |
 | **🏆 RewardPoints** | Python FastAPI | 9103 | Points, Achievements, Streaks, Shop Integration | Neon PostgreSQL + Redis |
-| **💳 PaymentService** | Python | - | Google Play Store, Subscriptions, Top-ups | Firestore + Redis |
-| **📊 Admin Service** | Python FastAPI | 8080 | RPM/RPD Tracking, Discord Alerts, User Management | Neon PostgreSQL + Redis |
-| **👨‍⚕️ Psychologist** | .NET 9.0 C# | 8080 (Cloud) / 5184 (Local) | Patient Management, QR Validation, SignalR, Bookings | Neon PostgreSQL + Firestore |
+| **💳 PaymentService** | Python | - | Google Play Store, Subscriptions, Top-ups | Redis |
+| **📊 Admin Service** | Python FastAPI | 8080 | RPM/RPD Tracking, Discord Alerts, User Management | Neon PostgreSQL + MongoDB + Redis |
+| **👨‍⚕️ Psychologist** | .NET 9.0 C# | 8080 (Cloud) / 5184 (Local) | Patient Management, QR Validation, SignalR, Bookings | Neon PostgreSQL + Redis |
 
 </div>
 
@@ -794,108 +782,62 @@ graph TB
 <div align="center">
 
 ```mermaid
-graph TB
-    subgraph EDGE["🌐 EDGE LAYER"]
+graph LR
+    subgraph Edge["🌐 Edge Layer"]
         Domain["🌐 faceofmind.it.com"]
         SSL["🔒 SSL Certificates"]
     end
 
-    subgraph CLOUDRUN["🚀 GOOGLE CLOUD RUN (Serverless)"]
-        subgraph CONTAINERS["🐳 DOCKER CONTAINERS"]
-            User["User Service<br/>python:3.11-slim<br/>Port: 8080"]
-            Chat["ChatService<br/>python:3.10-slim<br/>Port: 8000"]
-            Emotion["EmotionDetection<br/>python:3.11-slim<br/>Port: 8080"]
-            Quiz["QuizService<br/>python:3.11-slim<br/>Port: 9203"]
-            Reward["RewardPoints<br/>python:3.11-slim<br/>Port: 9103"]
-            AdminSvc["Admin Service<br/>python:3.11-slim<br/>Port: 8080"]
-            Psycho[".NET Psychologist<br/>dotnet/aspnet:9.0<br/>Port: 8080"]
-        end
-
-        AutoScale["📈 Auto-scaling<br/>0 to 1000+ instances<br/>Based on traffic"]
+    subgraph CloudRun["🚀 Google Cloud Run"]
+        Services["⚡ Serverless Containers<br/>Auto-scaling 0-1000+<br/>8 Microservices"]
     end
 
-    subgraph LOCAL["💻 LOCAL DEVELOPMENT"]
-        DockerCompose["🐳 Docker Compose<br/>Nginx Proxy<br/>Port: 5184 (Psychologist)"]
+    subgraph Databases["💾 Databases"]
+        PG["🐘 Neon PostgreSQL"]
+        Firestore["☁️ GCP Firestore/Datastore"]
+        MongoDB["🍃 MongoDB"]
+        Redis["🔴 Redis"]
     end
 
-    subgraph DATA["💾 DATABASES"]
-        Neon["🐘 Neon PostgreSQL<br/>Serverless<br/>Auth & Core Data"]
-        Firebase["🔥 Firebase<br/>Firestore + Realtime<br/>Chat & Transactions"]
-        RedisDB["⚡ Redis<br/>Upstash/Redis Cloud<br/>RPM/RPD & Cache"]
+    subgraph Monitoring["📊 Monitoring"]
+        Metrics["⚡ Redis Metrics<br/>RPM/RPD Tracking"]
+        Alerts["🔔 Discord Webhooks<br/>Error Alerts"]
     end
 
-    subgraph MONITORING["📊 MONITORING & ALERTS"]
-        RedisMetrics["⚡ Redis Tracking<br/>RPM/RPD Metrics<br/>Error Logging"]
-        DiscordAlert["🔔 Discord Webhooks<br/>5xx/4xx Alerts<br/>Latency Warnings"]
-    end
-
-    subgraph EXTERNAL["🌐 EXTERNAL APIS"]
-        AWS["☁️ AWS Rekognition<br/>Emotion Detection"]
-        Maps["📍 Google Maps<br/>Places | Distance Matrix"]
-        Gemini["🤖 Gemini AI 2.5<br/>Quiz Generation"]
-        PlayStore["💳 Google Play<br/>In-App Payments"]
+    subgraph External["🌐 External APIs"]
+        AWS["☁️ AWS Rekognition"]
+        Maps["📍 Google Maps"]
+        Gemini["🤖 Gemini AI"]
+        PlayStore["💳 Google Play"]
     end
 
     Domain --> SSL
-    SSL --> User
-    SSL --> Chat
-    SSL --> Emotion
-    SSL --> Quiz
-    SSL --> Reward
-    SSL --> AdminSvc
-    SSL --> Psycho
+    SSL --> Services
 
-    User --> Neon
-    User --> Firebase
-    User --> RedisDB
-    User --> Maps
-    User --> RedisMetrics
+    Services --> PG
+    Services --> Firestore
+    Services --> MongoDB
+    Services --> Redis
+    Services --> AWS
+    Services --> Maps
+    Services --> Gemini
+    Services --> PlayStore
 
-    Chat --> Firebase
-    Chat --> RedisDB
-    Chat --> RedisMetrics
+    Services --> Metrics
+    Metrics --> Alerts
 
-    Emotion --> AWS
-    Emotion --> RedisDB
-    Emotion --> RedisMetrics
+    %% Styling
+    classDef edge fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000
+    classDef cloud fill:#4285F4,stroke:#34A853,stroke-width:2px,color:#fff
+    classDef data fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px,color:#000
+    classDef monitor fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#000
+    classDef external fill:#f3e5f5,stroke:#4a148c,stroke-width:2px,color:#000
 
-    Quiz --> Gemini
-    Quiz --> RedisDB
-    Quiz --> RedisMetrics
-
-    Reward --> Neon
-    Reward --> RedisDB
-    Reward --> RedisMetrics
-
-    AdminSvc --> Neon
-    AdminSvc --> RedisDB
-    AdminSvc --> RedisMetrics
-
-    Psycho --> Neon
-    Psycho --> Firebase
-    Psycho --> RedisDB
-    Psycho --> Maps
-    Psycho --> RedisMetrics
-
-    RedisMetrics --> DiscordAlert
-
-    AutoScale -.->|Scales| User
-    AutoScale -.->|Scales| Chat
-    AutoScale -.->|Scales| Emotion
-    AutoScale -.->|Scales| Quiz
-    AutoScale -.->|Scales| Reward
-    AutoScale -.->|Scales| AdminSvc
-    AutoScale -.->|Scales| Psycho
-
-    DockerCompose -.->|Local Dev| Psycho
-
-    style EDGE fill:#2b2d42,stroke:#4a4e69,stroke-width:3px,color:#fff
-    style CLOUDRUN fill:#4285F4,stroke:#34A853,stroke-width:3px,color:#fff
-    style CONTAINERS fill:#2496ED,stroke:#fff,stroke-width:2px,color:#fff
-    style LOCAL fill:#6c757d,stroke:#fff,stroke-width:2px,color:#fff
-    style DATA fill:#1d3557,stroke:#457b9d,stroke-width:3px,color:#fff
-    style MONITORING fill:#E6522C,stroke:#fff,stroke-width:3px,color:#fff
-    style EXTERNAL fill:#FF6B00,stroke:#fff,stroke-width:3px,color:#fff
+    class Domain,SSL edge
+    class Services cloud
+    class PG,Firestore,MongoDB,Redis data
+    class Metrics,Alerts monitor
+    class AWS,Maps,Gemini,PlayStore external
 ```
 
 </div>
@@ -937,8 +879,8 @@ graph TB
 |---------------|-----------|-----------------|
 | **🏗️ Microservices** | 8 services | Full-stack architecture |
 | **📱 Client Applications** | 3 apps | Mobile + Web + Admin |
-| **🗄️ Databases** | 3 databases | PostgreSQL + Firebase + Redis |
-| **☁️ Cloud Services** | 15+ integrations | GCP + AWS + Firebase |
+| **🗄️ Databases** | 4 databases | PostgreSQL + GCP Firestore/Datastore + MongoDB + Redis |
+| **☁️ Cloud Services** | 15+ integrations | GCP + AWS |
 | **🔧 APIs** | 50+ endpoints | RESTful + WebSocket |
 | **📊 Lines of Code** | 50,000+ | Production-ready codebase |
 
@@ -952,7 +894,7 @@ graph TB
 graph LR
     subgraph FRONTEND["🎨 FRONTEND LAYER"]
         direction TB
-        Flutter["📱 Flutter 3.8.1<br/>• Camera & Speech-to-Text<br/>• Google Maps & QR Scanner<br/>• WebSocket & Firebase<br/>• SQLite Offline Storage"]
+        Flutter["📱 Flutter 3.8.1<br/>• Camera & Speech-to-Text<br/>• Google Maps & QR Scanner<br/>• WebSocket & GCP Services<br/>• SQLite Offline Storage"]
         ReactAdmin["🌐 React 18.3 Admin<br/>• TypeScript + Vite<br/>• TanStack Query<br/>• Chart.js + Recharts<br/>• shadcn/ui + Tailwind"]
         ReactPsycho["💻 React 18.3 Psychologist<br/>• SignalR Real-time<br/>• QR Scanner<br/>• Google Maps API<br/>• html2canvas Export"]
     end
@@ -980,7 +922,8 @@ graph LR
     subgraph DATA["🗄️ DATA & CACHE"]
         direction TB
         NeonDB["🐘 Neon PostgreSQL<br/>Serverless<br/>Auth & Core Data"]
-        FirebaseDB["🔥 Firebase<br/>Firestore (Chat/Transactions)<br/>Realtime (Live Updates)<br/>FCM (Push Notifications)"]
+        FirestoreDB["☁️ GCP Firestore/Datastore<br/>Chat Messages<br/>Datastore Mode"]
+        MongoDBCache["🍃 MongoDB<br/>Contact Forms<br/>Admin Data"]
         RedisCache["⚡ Redis<br/>RPM/RPD Metrics<br/>Quiz Sessions (30min)<br/>Rate Limiting"]
     end
 
@@ -1004,12 +947,11 @@ graph LR
     ReactPsycho --> PsychoSvc
 
     UserSvc --> NeonDB
-    UserSvc --> FirebaseDB
     UserSvc --> RedisCache
     UserSvc --> GoogleMaps
     UserSvc --> DiscordHook
 
-    ChatSvc --> FirebaseDB
+    ChatSvc --> FirestoreDB
     ChatSvc --> RedisCache
 
     FlaskEmotion --> AWSRek
@@ -1022,14 +964,13 @@ graph LR
     RewardSvc --> RedisCache
 
     PaySvc --> GooglePlay
-    PaySvc --> FirebaseDB
 
     AdminSvc --> NeonDB
+    AdminSvc --> MongoDBCache
     AdminSvc --> RedisCache
     AdminSvc --> DiscordHook
 
     PsychoSvc --> NeonDB
-    PsychoSvc --> FirebaseDB
     PsychoSvc --> GoogleMaps
 
     style FRONTEND fill:#2b2d42,stroke:#4a4e69,stroke-width:3px,color:#fff
@@ -1068,7 +1009,8 @@ graph LR
 
     subgraph DATABASE["💾 DATABASE SETUP"]
         NeonSetup["🐘 Neon PostgreSQL<br/>Connection Pooling<br/>Auto-suspend"]
-        FirebaseSetup["🔥 Firebase Setup<br/>Firestore Rules<br/>Realtime DB<br/>FCM Tokens"]
+        FirestoreSetup["☁️ GCP Firestore/Datastore<br/>Datastore Mode<br/>Chat Storage"]
+        MongoSetup["🍃 MongoDB Setup<br/>Contact Forms<br/>Admin Collections"]
         RedisSetup["⚡ Redis Setup<br/>Upstash/Cloud<br/>TTL Configuration"]
     end
 
@@ -1092,7 +1034,8 @@ graph LR
     Deploy --> Services
 
     Services --> NeonSetup
-    Services --> FirebaseSetup
+    Services --> FirestoreSetup
+    Services --> MongoSetup
     Services --> RedisSetup
 
     Services --> AWSSetup
