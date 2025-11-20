@@ -49,6 +49,8 @@ Experienced in building production-ready microservices architectures using **Pyt
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Tools & Technologies
@@ -72,7 +74,11 @@ Experienced in building production-ready microservices architectures using **Pyt
 | **PostgreSQL** | Advanced | Database Design, Query Optimization |
 | **Redis** | Advanced | Caching, Session Management, Real-time Features |
 | **Docker** | Advanced | Containerization, Multi-stage Builds |
+| **Kubernetes** | Advanced | Container Orchestration, Cluster Management |
+| **Terraform** | Advanced | Infrastructure as Code, Cloud Provisioning |
+| **Nginx** | Advanced | Reverse Proxy, Load Balancing, Web Server |
 | **CI/CD** | Advanced | GitHub Actions, Automated Deployment |
+| **DevOps Security** | Advanced | Secrets Management, IAM, Network Security |
 
 ---
 
@@ -99,6 +105,10 @@ Experienced in building production-ready microservices architectures using **Pyt
 ### DevOps & Automation
 - Containerized applications with **Docker** and **multi-stage builds**
 - Automated deployments with **GitHub Actions** workflows
+- Implemented **Infrastructure as Code** using **Terraform** for cloud resource provisioning
+- Configured **Kubernetes** clusters for container orchestration and scaling
+- Set up **Nginx** reverse proxy and load balancing configurations
+- Implemented **DevOps security** best practices (secrets management, IAM policies, network security)
 - Implemented **RPM/RPD tracking** for performance monitoring
 - Set up **error alerting** systems with Discord webhooks
 
