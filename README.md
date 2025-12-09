@@ -132,11 +132,11 @@ Experienced in building production-ready microservices architectures using **Pyt
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Froillan123)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=transparent&hide_border=true&langs_count=8&exclude_repo=Faceofmind)](https://github.com/Froillan123)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Froillan123&theme=transparent&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Froillan123&theme=transparent&hide_border=true)](https://github.com/Froillan123)
 
 ---
 
