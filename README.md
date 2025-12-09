@@ -1,90 +1,110 @@
-# Froillan Kim B. Edem
+# Froillan Kim B. Edem  
 
-**Software Engineer | DevOps/SRE | Cloud Architect**
+### Software Engineer • DevOps/SRE • Cloud Architect  
 
-*Designing scalable systems, automating infrastructure, and building resilient cloud-native architectures.*
+Designing scalable systems, automating infrastructure, and building resilient cloud-native architectures.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=globe)](https://www.froillan-edem-services.online/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/froillan-kim-b-edem-5b591b252/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail)](mailto:froillan.edem@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Froillan123)
+[Portfolio](https://froillan-edem-services.online) • [LinkedIn](https://linkedin.com/in/froillan-kim-b-edem-5b591b252) • [Email](mailto:froillan.edem@gmail.com) • [GitHub](https://github.com/Froillan123)
 
 ---
 
-## About
+## 🚀 About  
 
-Software Engineer building production systems at scale. Specialized in **cloud-native architectures**, **SRE practices**, and **infrastructure automation**. Currently architecting microservices on Google Cloud with event-driven patterns, implementing observability stacks, and automating deployments through CI/CD.
+Software Engineer building production systems at scale. Specialized in cloud-native architectures, SRE practices, and infrastructure automation.  
 
-**Key Focus Areas:** 🟦 Cloud Infrastructure | 💠 Microservices Architecture | ⚙️ DevOps/SRE | 🤖 AI/ML Integration
+Currently architecting microservices on Google Cloud with event-driven patterns, implementing observability stacks, and automating deployments through CI/CD.
 
----
+**Key Focus Areas:**  
 
-## Core Competencies
-
-☁️ **Infrastructure & Cloud:** Google Cloud Platform | AWS | Docker | Kubernetes | Terraform | Nginx
-
-📊 **Observability & Monitoring:** Grafana | Custom Monitoring Solutions | SRE Practices (SLIs, SLOs, Error Budgets)
-
-⚙️ **Development & Automation:** Python | Bash | FastAPI | TypeScript | C# .NET
-
-💾 **Data & Messaging:** PostgreSQL | MongoDB | Redis | Google Pub/Sub | Apache Kafka
-
-🔄 **CI/CD & DevOps:** GitHub Actions | Infrastructure as Code | Automated Testing & Deployment
+🟦 Cloud Infrastructure • 💠 Microservices Architecture • ⚙️ DevOps/SRE • 🤖 AI/ML Integration  
 
 ---
 
-## Experience Highlights
+## 🧩 Core Competencies
+
+### ☁️ Infrastructure & Cloud  
+
+Google Cloud Platform • AWS • Docker • Kubernetes • Terraform • Nginx  
+
+### 📊 Observability & Monitoring  
+
+Grafana • Custom Monitoring • SLIs, SLOs, Error Budgets  
+
+### ⚙️ Development & Automation  
+
+Python • Bash • FastAPI • TypeScript • C# (.NET)  
+
+### 💾 Data & Messaging  
+
+PostgreSQL • MongoDB • Redis • Google Pub/Sub • Apache Kafka  
+
+### 🔄 CI/CD & DevOps  
+
+GitHub Actions • Infrastructure as Code • Automated Testing & Deployment  
+
+---
+
+## 🔥 Experience Highlights  
 
 Here are some of the system-level problems I've solved and the impact I deliver:
 
-### Production Systems at Scale
-- **8+ microservices** deployed on Google Cloud Run with auto-scaling (0-1000+ instances)
-- **Event-driven architecture** using Google Pub/Sub and Apache Kafka for asynchronous communication
-- **Multi-database architecture** (PostgreSQL, MongoDB, GCP Datastore, Redis)
-- **Real-time systems** with WebSocket, SignalR, and Redis pub/sub
+### 🟧 Production Systems at Scale  
 
-### Infrastructure & Reliability
-- **Infrastructure as Code** with Terraform for multi-cloud provisioning (GCP, AWS)
-- **Container orchestration** on Kubernetes with auto-scaling and resource optimization
-- **Monitoring & observability** using Grafana dashboards and custom metrics tracking
-- **SRE practices** including SLIs, SLOs, error budgets, and incident response procedures
+- Architected 8+ microservices deployed on **Google Cloud Run** with auto-scaling (0–1000+ instances)  
 
-### Automation & CI/CD
-- **End-to-end CI/CD pipelines** with GitHub Actions (testing, security scanning, multi-stage deployments)
-- **Python & Bash automation** for infrastructure management, deployments, and maintenance tasks
-- **GitOps workflows** for infrastructure and application deployments
+- Implemented event-driven architectures using **Google Pub/Sub** & **Apache Kafka**  
 
-### AI/ML Integration
-- **LLM integration** with Gemini AI 2.5 Pro for intelligent content generation
-- **RAG systems** with pgvector and LangChain for knowledge-based chatbots
-- **ML pipelines** for real-time emotion classification (95% accuracy with AWS Rekognition)
-- **Multi-modal analysis** combining facial and voice recognition
+- Designed multi-database systems: PostgreSQL, MongoDB, GCP Datastore, Redis  
 
----
+- Built real-time systems using WebSocket, SignalR, and Redis pub/sub  
 
-## Technical Stack
+### 🟩 Infrastructure & Reliability (SRE)  
 
-### Cloud & Infrastructure
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+- Provisioned multi-cloud infrastructure using **Terraform (IaC)**  
 
-### Data & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub%2FSub-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- Managed Kubernetes clusters with auto-scaling and optimized resource allocation  
 
-### Observability & CI/CD
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+- Developed observability dashboards with **Grafana** and custom metrics  
+
+- Applied SRE practices: SLIs, SLOs, error budgets, incident response workflows  
+
+### 🔁 Automation & CI/CD  
+
+- Built full CI/CD pipelines (GitHub Actions) with automated tests, security scans, and staged deployments  
+
+- Automated cloud tasks and infrastructure workflows using Python & Bash  
+
+- Implemented GitOps workflows for consistent, reproducible deployments  
+
+### 🤖 AI/ML Integration  
+
+- Integrated LLMs (Gemini AI 2.5 Pro) for intelligent content generation  
+
+- Developed RAG systems using pgvector + LangChain  
+
+- Built ML pipelines for real-time emotion detection (95% accuracy using AWS Rekognition)  
+
+- Implemented multi-modal analysis combining facial and voice signals  
 
 ---
 
-## GitHub Statistics
+## 🛠 Technical Stack  
+
+**Cloud & Infrastructure:**  
+
+Google Cloud • AWS • Docker • Kubernetes • Terraform  
+
+**Data & Messaging:**  
+
+PostgreSQL • MongoDB • Redis • Apache Kafka • Google Pub/Sub  
+
+**Observability & CI/CD:**  
+
+Grafana • GitHub Actions  
+
+---
+
+## 📈 GitHub Statistics  
 
 <div align="center">
   
@@ -105,15 +125,24 @@ Here are some of the system-level problems I've solved and the impact I deliver:
   
 </div>
 
+**Quick Stats:**
+- **Total Contributions:** 3,370+ commits
+- **Current Streak:** 171 days 🔥
+- **Longest Streak:** 171 days
+- **Most Used Languages:** Python, TypeScript, Dart, C#
+
 ---
 
-## Contact
+## 📬 Contact  
 
 **Email:** froillan.edem@gmail.com  
+
 **LinkedIn:** [linkedin.com/in/froillan-kim-b-edem-5b591b252](https://www.linkedin.com/in/froillan-kim-b-edem-5b591b252/)  
+
 **Portfolio:** [froillan-edem-services.online](https://www.froillan-edem-services.online/)  
-**GitHub:** [github.com/Froillan123](https://github.com/Froillan123)
+
+**GitHub:** [github.com/Froillan123](https://github.com/Froillan123)  
 
 ---
 
-*Currently seeking opportunities where I can design scalable systems, automate infrastructure, and contribute to high-impact engineering teams.*
+### 🔍 Currently seeking opportunities where I can design scalable systems, automate infrastructure, and contribute to high-impact engineering teams.
