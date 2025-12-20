@@ -50,7 +50,7 @@ Here are some of the system-level problems I've solved and the impact I deliver:
 
 ### 🟧 Production Systems at Scale  
 
-- Architected 8+ microservices deployed on **Google Cloud Run** with auto-scaling (0–1000+ instances)  
+- Architected 8+ microservices deployed on **Google Cloud Run** with auto-scaling
 
 - Implemented event-driven architectures using **Google Pub/Sub** & **Apache Kafka**  
 
