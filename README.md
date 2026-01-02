@@ -162,9 +162,9 @@ WebSocket • SignalR • Redis pub/sub
 
 ## 📈 GitHub Statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://stats.ryo-chan.dev/api?username=Froillan123&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact)
+![Top Languages](https://stats.ryo-chan.dev/api/top-langs/?username=Froillan123&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Froillan123)
 
