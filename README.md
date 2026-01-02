@@ -165,10 +165,10 @@ WebSocket • SignalR • Redis pub/sub
 <div align="center">
   
   <a href="https://github.com/Froillan123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Froillan123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Froillan123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froillan123&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" />
   </a>
   
 </div>
@@ -176,16 +176,10 @@ WebSocket • SignalR • Redis pub/sub
 <div align="center">
   
   <a href="https://github.com/Froillan123">
-    <img src="https://streak-stats.demolab.com/?user=Froillan123&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Froillan123&theme=dark&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
   </a>
   
 </div>
-
-**Quick Stats:**
-- **Total Contributions:** 3,370+ commits
-- **Current Streak:** 171 days 🔥
-- **Longest Streak:** 171 days
-- **Most Used Languages:** Python, TypeScript, Dart, C#
 
 ---
 
